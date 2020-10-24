@@ -1,0 +1,22 @@
+.navigation {
+    background-image:url(../images/navbar.svg);
+    height: 78px;
+}
+
+.navigation ul {
+    margin:0;
+    list-style-type: none;
+}
+
+.navigation li {
+    position: relative;
+    float:left;
+    display: inline;
+    margin-top:20px;
+    padding: 0 10px;
+}
+
+.navigation a {
+    color: white;
+    text-decoration: none;
+}
